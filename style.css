@@ -178,6 +178,7 @@ section {
 
 .section__pic-container img {
   border-radius:  50%;
+  width: 26vw;
 }
 .section__text {
   align-self: center;
